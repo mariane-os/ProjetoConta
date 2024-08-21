@@ -1,5 +1,3 @@
-
-
 public class Conta {
     //atributos
     public String conta;
@@ -9,7 +7,6 @@ public class Conta {
 
     //metodos
     public int sacar(double valor){
-
     }
 
     public void depositar(double deposito){
